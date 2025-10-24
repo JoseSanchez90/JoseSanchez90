@@ -1,4 +1,4 @@
-<h2 align="left">Hola 👋! Mi nombre es José y soy de Perú - Lima 😃</h2>
+<h2 align="left">Hola 👋! Mi nombre es José y soy de Lima - Perú 😃</h2>
 
 ###
 
